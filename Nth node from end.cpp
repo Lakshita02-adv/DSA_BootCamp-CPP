@@ -1,3 +1,5 @@
+
+//Lakshita2 says this code works.
 #include <iostream>
 using namespace std;
 
@@ -70,8 +72,7 @@ int main(){
 	insert(2);
 	insert(3);
 	insert(4);
-	insert(5);
-	insert(6);
+
 	
 	display();
 	
