@@ -1,2 +1,2 @@
 # DSA_BootCamp-CPP
-learning DSA
+learning DSA is important
